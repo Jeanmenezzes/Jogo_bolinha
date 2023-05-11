@@ -1,0 +1,8 @@
+largura total = 700
+
+blocos proporcional = 8x6 = 48
+fileiras = 8
+colunas = 6
+
+700 / 6 = 116
+logo cada bloco terá 110 de largura e 3 de espaço entre cada bloco
